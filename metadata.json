@@ -1,0 +1,8 @@
+
+{
+  "name": "PhishGuard AI",
+  "description": "An advanced AI-powered phishing detection and email security analysis tool using Gemini 3. Identify malicious URLs, suspicious email patterns, and brand impersonation in real-time.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
